@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "singleton/src/br.com.dominio",
+        "singleton"
+    ]
+}
