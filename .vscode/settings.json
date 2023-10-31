@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Estruturais/Decorator/src",
         "Criacionais/Prototype/src",
-        "Estruturais/Decorator/src"
+        "Estruturais/Flyweigth/src"
     ]
 }
