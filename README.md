@@ -20,6 +20,11 @@ Este projeto é feito com o intuito de estudar os design patterns das categorias
   
 E por fim, implementar todos os algorimos em java.
 
+## Categorias
+### Criacionais
+### Estruturais 
+### Comportamentais
+
 ## :hammer: Construído com
 
 O aplicativo é construido com:</br>
